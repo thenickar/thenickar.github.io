@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://thenickar.github.io/sitemap
+Sitemap: https://thenickar.github.io/app/sitemap
+Sitemap: https://thenickar.github.io/assets/sitemap
+Sitemap: https://thenickar.github.io/css/sitemap
+Sitemap: https://thenickar.github.io/includes/sitemap
+Sitemap: https://thenickar.github.io/item/sitemap
+Sitemap: https://thenickar.github.io/src/sitemap
